@@ -1,0 +1,19 @@
+{
+  "name": "vue-ajax-manager",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel main.js -o index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.18.6",
+    "@babel/core": "^7.18.6",
+    "@babel/preset-env": "^7.18.6"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
+  }
+}
